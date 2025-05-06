@@ -106,6 +106,10 @@ streamlit run ai_task_manager.py
 
 ---
 
+▶️ [Watch Demo Video on Google Drive](https://drive.google.com/file/d/1UIRejyKhemCVJWY9IfbEE0_P2N2wa7Gq/view?usp=drive_link)
+
+---
+
 ## 🔮 Future Enhancements
 
 Planned improvements I would like to implement:
