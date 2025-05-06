@@ -8,7 +8,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 - **Developed by:** VINOTH KUMAR
-- **Organization:** ONEDATA SOFTWARE SOLUTIONS PRIVATE LIMITED 
+- **Company Name:** ONEDATA SOFTWARE SOLUTIONS PRIVATE LIMITED 
 - **Project Duration:** 7 days  
 
 <div align="center">
