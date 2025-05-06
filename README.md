@@ -4,6 +4,7 @@
 ![Streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B)
 ![SQLite](https://img.shields.io/badge/Database-SQLite-003B57)
 ![NLP](https://img.shields.io/badge/AI-spaCy%20%2B%20Transformers-09A3D5)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 **Developed by:** [Your Name]  
 **Organization:** [Your Company/University]  
@@ -41,6 +42,7 @@
 | AI | spaCy + Transformers | NLP pipeline integration |
 
 ### Key Code Features
+
 ```python
 # Example of verification system I implemented
 def verify_task(self, task_id: int) -> None:
@@ -59,7 +61,6 @@ def verify_task(self, task_id: int) -> None:
                 verification_status,
                 verification_comments
             )
-
 🚀 Installation & Setup
 Prerequisites
 Python 3.8+
@@ -70,24 +71,28 @@ Python 3.8+
 
 How to Run (My Development Setup)
 Clone repository:
-
 bash
+Copy
+Edit
 git clone https://github.com/yourusername/ai-task-manager.git
 cd ai-task-manager
 Set up environment:
-
 bash
+Copy
+Edit
 python -m venv venv
 source venv/bin/activate  # Linux/Mac
 venv\Scripts\activate     # Windows
 Install dependencies:
-
 bash
+Copy
+Edit
 pip install -r requirements.txt
 python -m spacy download en_core_web_sm
 Launch application:
-
 bash
+Copy
+Edit
 streamlit run ai_task_manager.py
 📌 What I Worked On
 Major Contributions
@@ -115,6 +120,7 @@ Feature	Implementation
 Task Creation	<img src="assets/create-task.png" width="400">
 Verification	<img src="assets/verification.png" width="400">
 Analytics	<img src="assets/analytics.png" width="400">
+
 🔮 Future Enhancements
 Planned improvements I would like to implement:
 
@@ -137,3 +143,13 @@ Share your use cases and feedback
 
 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+yaml
+Copy
+Edit
+
+---
+
+✅ This is fully GitHub markdown-compatible! It supports code syntax highlighting, tables, images, collapsible sections, and badges.
+
+Let me know if you want to customize the author name, GitHub link, or any other placeholder!
