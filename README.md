@@ -7,9 +7,9 @@
 ![NLP](https://img.shields.io/badge/AI-spaCy%20%2B%20Transformers-09A3D5)   
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-**Developed by:** VINOTH KUMAR
-**Organization:** ONEDATA SOFTWARE SOLUTIONS PRIVATE LIMITED 
-**Project Duration:** 7 days  
+- **Developed by:** VINOTH KUMAR
+- **Organization:** ONEDATA SOFTWARE SOLUTIONS PRIVATE LIMITED 
+- **Project Duration:** 7 days  
 
 <div align="center">
   <img src="assets/demo.gif" alt="Application Demo" width="800">
