@@ -59,3 +59,81 @@ def verify_task(self, task_id: int) -> None:
                 verification_status,
                 verification_comments
             )
+
+🚀 Installation & Setup
+Prerequisites
+Python 3.8+
+
+4GB RAM (8GB recommended)
+
+500MB disk space
+
+How to Run (My Development Setup)
+Clone repository:
+
+bash
+git clone https://github.com/yourusername/ai-task-manager.git
+cd ai-task-manager
+Set up environment:
+
+bash
+python -m venv venv
+source venv/bin/activate  # Linux/Mac
+venv\Scripts\activate     # Windows
+Install dependencies:
+
+bash
+pip install -r requirements.txt
+python -m spacy download en_core_web_sm
+Launch application:
+
+bash
+streamlit run ai_task_manager.py
+📌 What I Worked On
+Major Contributions
+Designed and implemented the complete verification workflow system
+
+Developed the database schema with automatic migration capabilities
+
+Created the analytics dashboard with interactive visualizations
+
+Integrated NLP models for task processing
+
+Implemented file attachment handling with secure storage
+
+Challenges Overcome
+Database Migrations: Solved schema evolution while preserving existing data
+
+State Management: Implemented session persistence in Streamlit
+
+File Handling: Developed secure document management system
+
+UI/UX: Created responsive design with custom CSS components
+
+📸 Screenshots of My Work
+Feature	Implementation
+Task Creation	<img src="assets/create-task.png" width="400">
+Verification	<img src="assets/verification.png" width="400">
+Analytics	<img src="assets/analytics.png" width="400">
+🔮 Future Enhancements
+Planned improvements I would like to implement:
+
+Team Collaboration: Multi-user support with roles
+
+Mobile App: React Native wrapper for mobile access
+
+Advanced AI: GPT integration for automatic task suggestions
+
+Reporting: PDF export for verification audits
+
+🤝 How to Contribute
+I welcome contributions to this project. Here's how you can help:
+
+Report bugs or suggest features via Issues
+
+Submit Pull Requests for improvements
+
+Share your use cases and feedback
+
+📜 License
+This project is licensed under the MIT License - see the LICENSE file for details.
