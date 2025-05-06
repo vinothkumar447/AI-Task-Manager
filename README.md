@@ -4,12 +4,12 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)  
 ![Streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B)  
 ![SQLite](https://img.shields.io/badge/Database-SQLite-003B57)  
-![NLP](https://img.shields.io/badge/AI-spaCy%20%2B%20Transformers-09A3D5)  
+![NLP](https://img.shields.io/badge/AI-spaCy%20%2B%20Transformers-09A3D5)   
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-**Developed by:** [Your Name]  
-**Organization:** [Your Company/University]  
-**Project Duration:** [Month/Year - Present]  
+**Developed by:** VINOTH KUMAR
+**Organization:** ONEDATA SOFTWARE SOLUTIONS PRIVATE LIMITED 
+**Project Duration:** 7 days  
 
 <div align="center">
   <img src="assets/demo.gif" alt="Application Demo" width="800">
