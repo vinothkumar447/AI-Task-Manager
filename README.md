@@ -47,29 +47,6 @@
 | Database   | SQLite                | Schema design and migration system           |
 | AI         | spaCy + Transformers  | NLP pipeline integration                     |
 
----
-
-## 📝 Key Code Example
-
-```python
-# Example: Verification system I implemented
-def verify_task(self, task_id: int) -> None:
-    """Handles the complete verification workflow."""
-    with self.create_connection() as conn:
-        task = conn.execute("SELECT * FROM tasks WHERE id=?", (task_id,)).fetchone()
-    
-    # Verification UI components
-    with st.expander(f"🔍 Verify Task: {task['title']}", expanded=True):
-        verification_status = st.selectbox("Outcome", ["Approved", "Needs Revision", "Rejected"])
-        verification_comments = st.text_area("Comments")
-        
-        if st.button("Submit Verification"):
-            self._update_verification_status(
-                task_id,
-                verification_status,
-                verification_comments
-            )
-```
 
 ---
 
@@ -156,4 +133,3 @@ This project is licensed under the **MIT License** – see the `LICENSE` file fo
 
 ---
 
-✅ **Fully GitHub markdown-compatible!** Supports code syntax highlighting, tables, images, collapsible sections, and badges.
