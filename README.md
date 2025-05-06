@@ -1,11 +1,4 @@
-
-![Task Manager Interface](https://img.shields.io/badge/Status-Production_Ready-brightgreen)
-![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue)
-![License](https://img.shields.io/badge/License-MIT-orange)
-
-<div align="center">
-  <img src="demo.gif" alt="App Demo" width="800">
-</div>
+# 🤖 AI-Powered Task Manager with Verification System
 
 ## 📌 Table of Contents
 - [Features](#-features)
